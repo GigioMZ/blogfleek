@@ -24,7 +24,6 @@ enableEmoji = true
   [params.social]
     GitHub = "GigioMZ"
     Linkedin = "guillermo-morgan-zanetti"
-    Stackoverflow = "3994693/tomas-farias"
 
   [params.search]
     enable = true
