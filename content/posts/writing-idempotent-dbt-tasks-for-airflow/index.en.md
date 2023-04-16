@@ -6,7 +6,7 @@ authorLink: "https://gigio.blogtest"
 tags: ["IPFS", "CDN", "interplanetary file system"]
 ---
 
-## ¿What is IPFS?
+# ¿What is IPFS?
 
 IPFS (InterPlanetary File System) is a peer-to-peer distributed file system that enables the creation and sharing of decentralized, distributed, and permanent storage and access to files.
 
@@ -14,7 +14,7 @@ IPFS allows users to address and retrieve files based on their content rather th
 
 This decentralized approach to file storage and access has several advantages over traditional centralized systems, including greater security, resilience, and performance. IPFS also provides a high degree of redundancy, as multiple copies of each block are stored across the network, ensuring that files can be retrieved even if some nodes go offline.
 
-## Case Examples of IPFS: How Companies Are Using It Today
+# Case Examples of IPFS: How Companies Are Using It Today
 
 IPFS has a wide range of potential applications, including content distribution, data archiving, and distributed web applications. Here are some examples of how IPFS is revolutionizing the content distribution in the web:
 
@@ -29,7 +29,7 @@ IPFS has a wide range of potential applications, including content distribution,
 Overall, IPFS is enabling new models for content distribution that are more efficient, scalable, and secure than traditional centralized systems. As more developers and organizations begin to adopt IPFS, we can expect to see even more innovative use cases and applications emerge.
 
 
-## Main Benefits of IFPS
+# Main Benefits of IFPS
 
 ### Decentralization
 
@@ -52,7 +52,7 @@ The advanced design of IPFS enables it to efficiently manage and handle high vol
 By offering a novel content distribution model, IPFS empowers developers to create innovative and decentralized applications that were previously not possible. By providing a distributed, peer-to-peer network for content distribution, IPFS enables developers to build applications that are more resilient, secure, and efficient. This can lead to the development of new types of applications and services that are not possible with traditional centralized systems.
 
 
-## Conclusion
+# Conclusion
 
 
 In conclusion, IPFS is revolutionizing the way we share data by providing a decentralized, efficient, and secure alternative to traditional centralized systems. By leveraging a distributed network of nodes, IPFS enables content to be accessed more quickly and reliably, while reducing the risk of censorship, network failures, and cyberattacks.
